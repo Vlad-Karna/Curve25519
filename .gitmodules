@@ -1,0 +1,3 @@
+[submodule "c25519"]
+	path = c25519
+	url = git@github.com:Vlad-Karna/c25519.git
